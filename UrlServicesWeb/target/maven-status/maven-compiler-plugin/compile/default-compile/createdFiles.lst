@@ -1,0 +1,5 @@
+com\urlshortner\corsFilter\WsCorsFilter.class
+com\urlshortner\controller\ClickController.class
+com\urlshortner\controller\UrlController.class
+com\urlshortner\main\WebServiceMain.class
+com\urlshortner\serviceManager\ServiceManager.class
